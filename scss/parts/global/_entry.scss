@@ -1,0 +1,26 @@
+/* POST */
+.home .panel-image,
+.single-featured-image-header {
+	display: none;
+}
+
+.entry-header,
+.entry-content {
+	float: none !important;
+	width: 100% !important;
+}
+
+.site-main {
+	line-height: 1.7; {
+		ul {
+			padding-left: 1.5em;
+			> li {
+				font-weight: bold;
+				margin-bottom: .5em;
+				> ul {
+					font-weight: normal;
+				}
+			}
+		}
+	}
+}
