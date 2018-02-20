@@ -11,15 +11,14 @@
 }
 
 .site-main {
-	line-height: 1.7; {
-		ul {
-			padding-left: 1.5em;
-			> li {
-				font-weight: bold;
-				margin-bottom: .5em;
-				> ul {
-					font-weight: normal;
-				}
+	line-height: 1.7;
+	ul {
+		padding-left: 1.5em;
+		> li {
+			font-weight: bold;
+			margin-bottom: .5em;
+			> ul {
+				font-weight: normal;
 			}
 		}
 	}
