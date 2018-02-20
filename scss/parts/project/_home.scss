@@ -1,0 +1,11 @@
+.home {
+    .site-title {
+        @media screen and (min-width: 48em) {
+            justify-content: center;
+        }
+        a {
+            background-image: url('/files/2018/02/teaser-logo.png');
+            height: 32vh;
+        }
+    }
+}
